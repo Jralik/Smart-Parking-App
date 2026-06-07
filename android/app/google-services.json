@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "970923262712",
+    "firebase_url": "https://smart-parking-app-52d41-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-parking-app-52d41",
+    "storage_bucket": "smart-parking-app-52d41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970923262712:android:674c9b82e342f6446d310d",
+        "android_client_info": {
+          "package_name": "com.example.smart_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDix291wjVcd7_kOoeF0UNIxkZrLfrqp_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
