@@ -2,6 +2,8 @@
 
 Dự án ứng dụng di động Flutter trong hệ thống IoT quản lý bãi đỗ xe thông minh. Ứng dụng kết nối trực tiếp với phần cứng (ESP32/các cảm biến) thông qua giao thức truyền tin thời gian thực **MQTT** và sử dụng **Firebase** làm cơ sở dữ liệu dự phòng cũng như lưu trữ lịch sử hoạt động và đẩy thông báo (Push Notifications).
 
+Demo: https://www.youtube.com/watch?v=pj0VzO3RjyQ
+
 ---
 
 ## 🌟 Tính Năng Chính
